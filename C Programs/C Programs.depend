@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1580680170 source:e:\c programs\lab 2b\task 1\specifier.c
+	<stdio.h>
+
+1580680133 source:e:\c programs\lab 2b\task 2\coulomb_force.c
+	<stdio.h>
+
+1514140574 source:e:\c programs\c programs\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main(void) {
+    int times10;
+    int 10times;
+    int _done;
+    int _10times;
+    int user name;
+    int user.name;
+    int user_name;
+    int username;
+    return 0;
+}
